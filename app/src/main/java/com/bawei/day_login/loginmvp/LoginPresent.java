@@ -2,7 +2,6 @@ package com.bawei.day_login.loginmvp;
 
 import android.content.Context;
 
-import com.bawei.day_login.LoginActivity;
 import com.bawei.day_login.net.CallBackPost;
 
 /*
